@@ -1,6 +1,5 @@
 %define		pkgname	swiftmailer
 %define		php_min_version 5.2.1
-%include	/usr/lib/rpm/macros.php
 Summary:	Component-based library for sending e-mails
 Name:		php-%{pkgname}
 Version:	5.4.0
